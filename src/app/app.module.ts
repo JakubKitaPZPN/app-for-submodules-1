@@ -3,7 +3,8 @@ import {BrowserModule} from '@angular/platform-browser';
 
 import {AppRoutingModule} from './app-routing.module';
 import {AppComponent} from './app.component';
-import {StyledInputModule} from "styled-input";
+import {StyledInputModule} from "../../libs/standalone-lib/src/lib/styled-input.module";
+// import {StyledInputModule} from "styled-input";
 
 @NgModule({
   declarations: [

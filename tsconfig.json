@@ -21,7 +21,7 @@
     "useDefineForClassFields": false,
     "paths": {
 //      "styled-input": ["libs/styled-input/projects/styled-input/src/public-api.ts"],
-      "styled-input": ["libs/standalone-lib/src/public-api.ts"]
+//      "styled-input": ["libs/standalone-lib/src/public-api.ts"]
     },
     "lib": [
       "ES2022",
