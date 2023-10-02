@@ -1,0 +1,9 @@
+[submodule "src/custom_lib"]
+	path = src/custom_lib
+	url = https://github.com/JakubKitaPZPN/styled-input-repo.git
+[submodule "libs/styled-input"]
+	path = libs/styled-input
+	url = https://github.com/JakubKitaPZPN/styled-input-repo.git
+[submodule "libs/standalone-lib"]
+	path = libs/standalone-lib
+	url = https://github.com/JakubKitaPZPN/standalone-input-lib.git
